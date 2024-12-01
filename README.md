@@ -8,14 +8,14 @@
 
 - Skills
 
-DevOps Tools             : Jenkins, GitLab CI, Docker, Kubernetes, Terraform /
-Cloud Platforms          : AWS /
-Configuration Management : Ansible /
-Version Control Systems  : Git, GitHub, Bitbucket /
-Scripting Languages      : Python, Bash /
-Monitoring & Logging     : Prometheus, Grafana, ELK Stack /
-Infrastructure Automation: Terraform /
-Operating Systems        : Linux /
+DevOps Tools             : Jenkins, GitLab CI, Docker, Kubernetes, Terraform |
+Cloud Platforms          : AWS |
+Configuration Management : Ansible |
+Version Control Systems  : Git, GitHub, Bitbucket |
+Scripting Languages      : Python, Bash |
+Monitoring & Logging     : Prometheus, Grafana, ELK Stack |
+Infrastructure Automation: Terraform |
+Operating Systems        : Linux 
 
 
 - 
