@@ -1,4 +1,4 @@
-## Hi My name is  KOCHERVU CHANDRIKA 👋
+## Hi My name is  KOCHERVU CHANDRIKA 👋 
 
 - 📫 How to reach me: kochervuchandrika@gmail.com
 - 🌍  I'm based in Hyderabad, India
