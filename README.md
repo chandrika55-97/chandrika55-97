@@ -20,7 +20,7 @@ Operating Systems        : Linux
 
 - ⚡  Open to Learning New Tools & Technologies: I enjoy exploring emerging tools and platforms in DevOps, cloud computing, and automation to stay ahead in the industry. Mentorship: I am passionate about mentoring budding DevOps engineers, guiding them through cloud concepts, CI/CD, and best practices in automation. Hackathons & Events: I am enthusiastic about participating in hackathons, conferences, and tech meetups to collaborate, learn, and share insights with the community. Feedback & Improvement: I am always open to feedback to enhance my skills and contribute better to cloud projects and team efforts.
 
-- ⚡ Fun fact: Feel free to contact me at any time......
+- ⚡ Fun fact: We will meet you once again soon......
 
 - 😄 Pronouns: Chandu
 
